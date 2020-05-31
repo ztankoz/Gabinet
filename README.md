@@ -1,7 +1,6 @@
 ## Specjalistyczna Praktyka Psychiatryczna
 ## Krzysztof Stańkowski
-
-lekarz, specjalista psychiatra, psychoterapeuta
+*lekarz, specjalista psychiatra, psychoterapeuta*
 
 ### Kontakt
 _telefon: 509122806_
