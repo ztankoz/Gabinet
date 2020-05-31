@@ -9,7 +9,7 @@ lekarz, specjalista psychiatra, psychoterapeuta
 Przed wizytą konieczna jest rejestracja telefoniczna 
 (poniedziałki, środy, czwartki od 19:00 do 21:00)
 Możliwość wysłania sms lub email z prośba o kontakt
-**telefon: 509122806**
+_telefon: 509122806_
 _email: praktyka@gabinetpsychiatra.pl_
 
 ```
@@ -52,8 +52,7 @@ _email: praktyka@gabinetpsychiatra.pl_
 
 
 ```
-  Strona ma charakter informacyjny i nie zawiera treści reklamowych
-  Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację.
-  ztankoz © 2020
-  [praktyka@gabinetpsychiatra.pl] {mailto:praktyka@gabinetpsychiatra.pl}
-```  
+Strona ma charakter informacyjny i nie zawiera treści reklamowych
+Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację.
+ztankoz © 2020
+ ```  
