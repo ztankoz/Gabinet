@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Specjalistyczna Praktyka Psychiatryczna
+## Krzysztof Stańkowski
 
-You can use the [editor on GitHub](https://github.com/ztankoz/testsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+lekarz, specjalista psychiatra, psychoterapeuta
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Przed wizytą konieczna jest rejestracja telefoniczna 
+(poniedziałki, środy, czwartki od 19:00 do 21:00)
+Możliwość wysłania sms lub email z prośba o kontakt
+**telefon: 509122806**
+_email: praktyka@gabinetpsychiatra.pl_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+ ### Oferta terapeutyczna dotyczy farmakoterapii, psychoterapii oraz psychedukacji zaburzeń i chorób psychicznych osób dorosłych między innymi;
+- schizofrenii
+- choroby afektywnej dwubiegunowej
+- depresji
+- otępienia
+- nerwic
+- zaburzeń osobowości
+- zaburzeń zachowania u osób z upośledzeniem
+- uzależnień
+- zaburzeń popędów
+- zaburzeń snu i innych...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Wizyta w gabinecie w Bytomiu
+- czas: wtorki i piątki (rano i po południu)
+- adres: Strzelców Bytomskich 196/12 Bytom, 41-914
 
-### Jekyll Themes
+### Wizyta w gabinecie w Czeladzi
+- czas: poniedziałki i czwartki (po południu)
+- adres: Bytomskia 50, Czeladź, 41-250
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ztankoz/testsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Wizyta domowa
+- odbywa się po wcześniejszym, telefonicznym ustaleniu czasu oraz miejsca spotkania
+- czas trwania wizyty pierwszorazowej to około 60 minut, kolejnej około 30 minut
+- oferta dojazdu dotyczy rejonu Górnego Śląska
 
-### Support or Contact
+### Cena wizyty w gabinecie
+1. pierwszorazowa - 200zł
+2. kolejna - 150zł
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Cena wizyty domowej
+1. pierwszorazowa - 300zł
+2. kolejna - 200zł
+
+### Formy płatności
+1. gotówka
+2. stablecoin
+
+
+```
+  Strona ma charakter informacyjny i nie zawiera treści reklamowych
+  Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację.
+  ztankoz © 2020
+  [praktyka@gabinetpsychiatra.pl] {mailto:praktyka@gabinetpsychiatra.pl}
+```  
