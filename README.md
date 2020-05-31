@@ -3,17 +3,19 @@
 
 lekarz, specjalista psychiatra, psychoterapeuta
 
+### Kontakt
+_telefon: 509122806_
+
+_email: praktyka@gabinetpsychiatra.pl_
 
 ```markdown
-
 Przed wizytą konieczna jest rejestracja telefoniczna 
 (poniedziałki, środy, czwartki od 19:00 do 21:00)
 Możliwość wysłania sms lub email z prośba o kontakt
-_telefon: 509122806_
-_email: praktyka@gabinetpsychiatra.pl_
-
 ```
- ### Oferta terapeutyczna dotyczy farmakoterapii, psychoterapii oraz psychedukacji zaburzeń i chorób psychicznych osób dorosłych między innymi;
+
+
+### Oferta terapeutyczna dotyczy farmakoterapii, psychoterapii oraz psychedukacji zaburzeń i chorób psychicznych osób dorosłych między innymi;
 - schizofrenii
 - choroby afektywnej dwubiegunowej
 - depresji
@@ -50,9 +52,8 @@ _email: praktyka@gabinetpsychiatra.pl_
 1. gotówka
 2. stablecoin
 
-
 ```
 Strona ma charakter informacyjny i nie zawiera treści reklamowych
 Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację.
 ztankoz © 2020
- ```  
+```
