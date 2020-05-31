@@ -52,8 +52,7 @@ Możliwość wysłania sms lub email z prośba o kontakt
 1. gotówka
 2. stablecoin
 
-```
+```markdown
 Strona ma charakter informacyjny i nie zawiera treści reklamowych
-Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację.
-ztankoz © 2020
+Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
 ```
