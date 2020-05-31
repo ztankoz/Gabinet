@@ -1,4 +1,3 @@
-## Specjalistyczna Praktyka Psychiatryczna
 ## Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
