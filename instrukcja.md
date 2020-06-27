@@ -1,4 +1,8 @@
 <a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
+
+>Przed wizytą konieczna jest rejestracja telefoniczna 
+>(poniedziałki, środy, czwartki od 19:00 do 21:00)
+>Możliwość wysłania sms lub email z prośba o kontakt
 <p>
 Klucz pgp służy do szyfrowania lub podpisywania informacji, które mają szczególne znaczenie.
 <br>
