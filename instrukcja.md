@@ -1,4 +1,4 @@
-[Powrót do strony głównej] (https://gabinetpsychiatra.pl)
+<a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
 <p>
 Klucz pgp służy do szyfrowania lub podpisywania informacji, które mają szczególne znaczenie.
 <br>
