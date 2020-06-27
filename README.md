@@ -1,11 +1,11 @@
 ## Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
-### Kontakt
+### Kontakt - [instrukcje](/instrukcja.md)
 _telefon: 509122806_
 
 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
-<a href="/instrukcja.md"> instrukcje</a>
+
 
 ```markdown
 Przed wizytą konieczna jest rejestracja telefoniczna 
