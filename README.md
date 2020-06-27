@@ -5,7 +5,7 @@
 _telefon: 509122806_
 
 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
-<a href="https://gabinetpsychiatra.pl/instrukcja.md"> instrukcje</a>
+<a href="/instrukcja.md"> instrukcje</a>
 
 ```markdown
 Przed wizytą konieczna jest rejestracja telefoniczna 
