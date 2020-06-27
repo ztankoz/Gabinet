@@ -6,4 +6,4 @@ Obecny System pocztowy internetu przypomina wysyłanie kartek pocztowych. Można
 <br>
 Z tego powodu nalegam by wysyłając prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu lub emailem zwrotnym.
 
-_W przypadku pacjentów, których leczę, wymagam przesyłania emaili po zaszyfrowaniu moim kluczem publicznym [pgp](https://gabinetpsychiatra.pl/pgp) lub komunikację przy pomocy komunikatora singal lub status._
+_W przypadku pacjentów, których leczę, wymagam przesyłania emaili po zaszyfrowaniu moim kluczem publicznym [pgp](https://gabinetpsychiatra.pl/pgp) lub komunikację przy pomocy komunikatora status - private communications lub signal._
