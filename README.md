@@ -54,7 +54,7 @@ Możliwość wysłania sms lub email z prośba o kontakt
 >Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
 
 ### Klucz publiczny PGP
-<small>
+<tiny>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEXvUJ2xYJKwYBBAHaRw8BAQdAQPBW577DK8XlzcFqatsBVpZiZXYwsIoMuk+3
@@ -81,4 +81,4 @@ fY21tkOIEaR8AR72nnB2ZgyqAQDIC7Jmu2GYIsdz+8BIARGnUMm0FTDOB2xpva3A
 2cKWAg==
 =Mxe4
 -----END PGP PUBLIC KEY BLOCK-----
-</small>
+</tiny>
