@@ -6,7 +6,7 @@
 <p>
 Klucz pgp służy do szyfrowania lub podpisywania informacji, które mają szczególne znaczenie.
 <br>
-Obecny System pocztowy internetu przypomina wysyłanie kartek pocztowych. Można w ten sposób przesłać życzenia z wakacji ale nie dane medyczne.
+Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych wrażliwych.
 <br>
 Z tego powodu nalegam by wysyłając prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu lub emailem zwrotnym.
 
