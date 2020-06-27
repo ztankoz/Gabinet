@@ -9,5 +9,5 @@ Klucz pgp służy do szyfrowania lub podpisywania informacji, które mają szcze
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych wrażliwych.
 <br>
 Z tego powodu nalegam by wysyłając prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu lub emailem zwrotnym.
-
+<p>
 W przypadku pacjentów, których leczę, wymagam przesyłania emaili po zaszyfrowaniu moim kluczem publicznym <a href="https://gabinetpsychiatra.pl/pgp"> pgp</a> lub komunikację przy pomocy komunikatora <a href="https://status.im/"> status - private communications </a>.
