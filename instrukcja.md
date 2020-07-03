@@ -8,4 +8,4 @@ Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i ni
 <br>
 Z tego powodu nalegam by wysyłając prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu.
 <p>
-Wobec pacjentów, których leczę, wymagam przesyłania emaila po wcześniejszym zaszyfrowaniu moim kluczem publicznym  <a href="https://gabinetpsychiatra.pl/pgp"> pgp</a> lub komunikację przy pomocy komunikatora <a href="https://status.im/"> status - private communications </a> - (adres: psychiatra.eth).
+Wobec pacjentów, których leczę, wymagam przesyłania emaila (np. z wynikami badań) po wcześniejszym zaszyfrowaniu moim kluczem publicznym  <a href="https://gabinetpsychiatra.pl/pgp"> pgp</a>. Celem bezpiecznego przesłania odpowiedzi, musze posłużyc sie kluczem publicznym pacjenta, który wcześniej zotał wgrany na serwer kluczy lub przesłany na mój adres.<br> Alternatywę może stanowić użycie komunikatora <a href="https://status.im/"> status - private communications </a> - (mój adres: psychiatra.eth).
