@@ -7,13 +7,6 @@ _telefon: 509122806_
 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
 
 
-```markdown
-Przed wizytą konieczna jest rejestracja telefoniczna 
-(poniedziałki, środy, czwartki od 19:00 do 21:00)
-Możliwość wysłania sms lub email z prośba o kontakt
-```
-
-
 ### Oferta terapeutyczna dotyczy farmakoterapii, psychoterapii oraz psychedukacji zaburzeń i chorób psychicznych osób dorosłych między innymi;
 - schizofrenii
 - choroby afektywnej dwubiegunowej
