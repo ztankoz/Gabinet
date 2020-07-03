@@ -1,3 +1,5 @@
+<a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
+
 Płatności w gabinecie
 1. gotówka
 2. kryptowaluty
