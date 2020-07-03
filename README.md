@@ -55,5 +55,6 @@ Możliwość wysłania sms lub email z prośba o kontakt
 - opcja niedostępna dla pacjentów pierwszorazowych
 - tylko po uwzględnieniu przez pacjenta konsekwencji prawnych, związanych z wykorzystaniem systemu finansowego do kontroli społecznej
 
->Strona ma charakter informacyjny i nie zawiera treści reklamowych
+>Strona ma charakter informacyjny i nie zawiera treści reklamowych.
+
 >Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
