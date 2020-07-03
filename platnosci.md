@@ -11,4 +11,3 @@ Płatności w gabinecie
 4. przelew
 - opcja niedostępna dla pacjentów pierwszorazowych
 - tylko po uwzględnieniu przez pacjenta konsekwencji prawnych, związanych z wykorzystaniem systemu finansowego do kontroli społecznej
-
