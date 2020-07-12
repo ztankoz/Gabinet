@@ -2,9 +2,7 @@
 
 Płatności w gabinecie
 1. gotówka
-2. kryptowaluty
-- BTC
-- stablecoin
+2. kryptowaluty (BTC, XMR ETH oraz stablecoin)
 3. brak możliwości płacenia kartami płatniczymi
 4. przelew
 - opcja niedostępna dla pacjentów pierwszorazowych
