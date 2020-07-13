@@ -37,7 +37,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 ### Telewizyta
 - w wyjątkowych sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
 
-<hr>
+<br>
 
 ### Cena wizyty w gabinecie
 - pierwszorazowa - 200zł
@@ -50,11 +50,13 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 ### Cena telewizyty
 - kolejna - 150zł
 
-<hr>
+<br>
 
 ### Formy płatności - [informacje](/platnosci.md)
 1. gotówka
 2. BTC, XMR, ETH, stablecoin
+
+<hr>
 
 >Strona ma charakter informacyjny i nie zawiera treści reklamowych.
 >Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
