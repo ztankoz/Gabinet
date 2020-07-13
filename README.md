@@ -19,6 +19,8 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - zaburzeń popędów
 - zaburzeń snu i innych...
 
+<br>
+
 ### Wizyta w gabinecie w Bytomiu  [ - mapa](https://www.openstreetmap.org/node/7660154838#map=16/50.3878/18.8818)
 - czas: wtorki i piątki (rano i po południu)
 - adres: Strzelców Bytomskich 196/12 Bytom, 41-914
@@ -32,6 +34,11 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - czas trwania wizyty pierwszorazowej to około 60 minut, kolejnej około 30 minut
 - oferta dojazdu dotyczy rejonu Górnego Śląska
 
+### Telewizyta
+- w wyjątkowych sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
+
+<hr>
+
 ### Cena wizyty w gabinecie
 1. pierwszorazowa - 200zł
 2. kolejna - 150zł
@@ -39,6 +46,11 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 ### Cena wizyty domowej
 1. pierwszorazowa - 300zł
 2. kolejna - 200zł
+
+### Cena telewizyty
+- kolejna - 150zł
+
+<hr>
 
 ### Formy płatności - [informacje](/platnosci.md)
 1. gotówka
