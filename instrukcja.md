@@ -4,13 +4,13 @@ Przed wizytą konieczna jest rejestracja telefoniczna
 (poniedziałki, środy, czwartki od 19:00 do 21:00)
 Można wysłać sms lub email z prośba o kontakt.
 ```
-Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych <strong>wrażliwych</strong>.
+Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych _wrażliwych._
 <br>
 Z tego powodu nalegam by wysyłając emailem prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu.
 <br>
 Podobnie prosząc o kontakt telefoniczny w postaci wiadomości sms proszę nie podawać swoich danych.
 <br>
-Dzień przed planowana wizytą wysyłam przypomnienie w postaci wiadomości sms na wskazany numer telefonu.
+_Dzień przed planowana wizytą wysyłam przypomnienie w postaci wiadomości sms na wskazany numer telefonu._
 <br>
 <hr>
 
