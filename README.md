@@ -55,7 +55,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 ### Formy płatności - [informacje](/platnosci.md)
 1. gotówka
 2. BTC, XMR, ETH, stablecoin
-
+<br>
 <hr>
 
 >Strona ma charakter informacyjny i nie zawiera treści reklamowych.
