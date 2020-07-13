@@ -2,7 +2,7 @@
 ```
 Przed wizytą konieczna jest rejestracja telefoniczna 
 (poniedziałki, środy, czwartki od 19:00 do 21:00)
-Możliwość wysłania sms lub email z prośba o kontakt
+Można wysłać sms lub email z prośba o kontakt.
 ```
 <p>
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych <strong>wrażliwych</strong>.
