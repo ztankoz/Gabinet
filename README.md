@@ -40,12 +40,12 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 <hr>
 
 ### Cena wizyty w gabinecie
-1. pierwszorazowa - 200zł
-2. kolejna - 150zł
+- pierwszorazowa - 200zł
+- kolejna - 150zł
 
 ### Cena wizyty domowej
-1. pierwszorazowa - 300zł
-2. kolejna - 200zł
+- pierwszorazowa - 300zł
+- kolejna - 200zł
 
 ### Cena telewizyty
 - kolejna - 150zł
