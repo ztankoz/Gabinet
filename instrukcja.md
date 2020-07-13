@@ -16,8 +16,8 @@ Dzień przed planowana wizytą wysyłam przypomnienie w postaci wiadomości sms 
 <hr>
 
 Moi pacjenci wysyłając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu) mają do wyboru trzy metody;
-1. dla prostych informacji bez załączników można użyć komunikatora <a href="https://status.im/"> status - private communications </a> - (mój adres: psychiatra.eth). Po otrzymaniu informace potwierdzę telefonicznie tożsamość osoby piszącej.
-2. kolejną możliwością jest wysłanie emaila z podanego w kartotece konta pocztowego ale sama wiadomość musi być zaszyfrowana moim kluczem publicznym  <a href="https://gabinetpsychiatra.pl/pgp"> pgp</a>. Z kolei, wysłanie bezpiecznej odpowiedzi przeze mnie, wymaga posłużenia się kluczem publicznym pacjenta, który wcześniej zotał wgrany na serwer kluczy lub przesłany na mój adres.
-3. prostrzą metodą jest użycie komunikatora [delta.chat](https://delta.chat/pl). Do konfiguracji należy użyć swojego konta pocztowego podanego w kartotece
+1. dla krótkich informacji bez załączników można użyć komunikatora <a href="https://status.im/"> status - private communications </a> - (mój adres: psychiatra.eth). Po otrzymaniu informace potwierdzę telefonicznie tożsamość osoby piszącej.
+2. kolejną możliwością _(skąplikowany proces ustawień)_ jest wysłanie emaila z podanego w kartotece konta pocztowego ale sama wiadomość musi być zaszyfrowana moim kluczem publicznym  <a href="https://gabinetpsychiatra.pl/pgp"> pgp</a>. Z kolei, wysłanie bezpiecznej odpowiedzi przeze mnie, wymaga posłużenia się kluczem publicznym pacjenta, który wcześniej zotał wgrany na serwer kluczy lub przesłany na mój adres.
+3. prostrzą metodą jest użycie komunikatora [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć swojego konta pocztowego podanego w kartotece. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie.
 
-Nie odpowiadam na żadne informacje przesłane przez whatsapp, signal, messenger
+__Uwaga! Nie odpowiadam na żadne informacje przesłane przez whatsapp czy messenger bo nie posiadam takich kont__
