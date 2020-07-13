@@ -10,6 +10,8 @@ Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i ni
 Z tego powodu nalegam by wysyłając emailem prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu.
 <br>
 Podobnie prosząc o kontakt telefoniczny w postaci wiadomości sms proszę nie podawać swoich danych.
+<br>
+Dzień przed planowana wizytą wysyłam przypomnienie w postaci wiadomości sms na wskazany numer telefonu.
 <p>
 <hr>
 
