@@ -11,7 +11,7 @@ Z tego powodu nalegam by wysyłając emailem prośbę o kontakt nie podawać ża
 Podobnie prosząc o kontakt telefoniczny w postaci wiadomości sms proszę nie podawać swoich danych.
 <br>
 
-_Dzień przed planowana wizytą wysyłam przypomnienie w postaci wiadomości sms na wskazany numer telefonu._
+_Dzień przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości sms na wskazany numer telefonu._
 <br>
 <hr>
 
