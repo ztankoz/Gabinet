@@ -1,5 +1,5 @@
-Popieram [Deklarację](https://gbdeclaration.org/) w sprawie sposobów postępowania wobec pandemii COVID,
-<p>
+Popieram [Deklarację](https://gbdeclaration.org/) w sprawie konieczności zmiany sposobu postępowania wobec pandemii COVID.
+<hr>
 
 ## Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
