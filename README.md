@@ -1,3 +1,6 @@
+Popieram [Deklarację](https://gbdeclaration.org/) w sprawie sposobów postępowania wobec pandemii COVID,
+<br>
+
 ## Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
