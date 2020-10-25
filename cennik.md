@@ -1,1 +1,11 @@
-test
+__Cena wizyty w gabinecie__
+- pierwszorazowa - 200zł
+- kolejna - 150zł
+
+__Cena wizyty domowej__
+- pierwszorazowa - 300zł
+- kolejna - 200zł
+
+__Cena telewizyty__
+- kolejna - 150zł
+ *nie oferuję telewizyty pacjentom pierwszorazowym
