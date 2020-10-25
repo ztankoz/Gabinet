@@ -7,5 +7,5 @@ __Cena wizyty domowej__
 - kolejna - 200zł
 
 __Cena telewizyty__
-- kolejna - 150zł
+- kolejna - 150zł<br>
  *nie oferuję telewizyty pacjentom pierwszorazowym
