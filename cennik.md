@@ -1,6 +1,6 @@
 <a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
 
-####Cennik
+#### Cennik
 
 __Cena wizyty w gabinecie__
 - pierwszorazowa - 200zł
