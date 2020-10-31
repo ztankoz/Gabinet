@@ -12,6 +12,7 @@ __Uwaga!__
 <br>
 
 Nowi pacjenci
+
 _Nalegam_ by wysyłając emailem prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu.
 <br>
 Podobnie prosząc o kontakt telefoniczny w postaci wiadomości sms proszę nie podawać swoich danych.
