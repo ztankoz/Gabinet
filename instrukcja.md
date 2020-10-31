@@ -21,6 +21,7 @@ _Dzień przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości sm
 <br>
 
 <hr>
+
 Moi pacjenci
 
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych _wrażliwych._
