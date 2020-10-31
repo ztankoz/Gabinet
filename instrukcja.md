@@ -11,6 +11,8 @@ __Uwaga!__
 - nie odpowiadam na żadne informacje przesłane przez whatsapp czy messenger bo nie posiadam takich kont
 <br>
 
+<hr>
+
 Nowi pacjenci
 
 _Nalegam_ by wysyłając emailem prośbę o kontakt nie podawać żadnych informacji poza numerem telefonu.
@@ -20,7 +22,6 @@ Podobnie prosząc o kontakt telefoniczny w postaci wiadomości sms proszę nie p
 _Dzień przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości sms na wskazany numer telefonu._
 <br>
 
-<hr>
 
 Moi pacjenci
 
