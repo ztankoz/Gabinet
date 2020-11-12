@@ -25,6 +25,7 @@ Przed planowana wizytą otworzę salę konferencyjną i podam jej nazwę. W prog
 
 Na stronie, która sie otworzy należy wpisać nazwe sali konferencyjnej, która podałem przed wizytą.
 
+<hr>
 
 __Wyjaśnienie:__
 wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co unieżliwia podsłuchiwanie.
