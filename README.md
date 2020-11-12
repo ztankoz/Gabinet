@@ -37,7 +37,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - czas trwania wizyty pierwszorazowej to około 60 minut, kolejnej około 30 minut
 - oferta dojazdu dotyczy rejonu Górnego Śląska
 
-### Telewizyta
+### Telewizyta - [informacje](/tele.md)
 - w wyjątkowych sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
 
 <br>
