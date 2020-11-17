@@ -4,28 +4,26 @@
 
 1. __rozmowa telefoniczna__
 
-inicjowana przeze mnie
+- inicjowana przeze mnie
+- dzwonię na ustalony wcześniej numer telefonu
+- czas trwania to z reguły 30 minut
 
-dzwonię na ustalony wcześniej numer telefonu
+2. __wideorozmowa__
 
-czas trwania to z reguły 30 minut
+- wymaga instalacji oprogramowania na telefonie komórkowym lub użycia komputera z przeglądarką internetową
 
-2. __widorozmowa__
+- czas trwania to z reguły 30 minut
 
-wymaga instalacji oprogramowania na telefonie komórkowym lub użycia komputera z przeglądarka internetową
+_Instrukcje instalacji oprogramowania do wideorozmowy;_
+- przez telefon komórkowy - wymaga instalacji oprogramowania [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) na telefonie  oraz zmianę w ustawieniach serwera z https://meet.jit.si na serwer przeze mnie obsługiwany https://wizyta.gabinetpsychiatra.pl
 
-czas trwania to z reguły 30 minut
-
-Instrukcje instalacji;
-- przez telefon komórkowy - wymaga instalacji oprogranowania [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) na telefonie  oraz zmianę w ustawieniach serwera z https://meet.jit.si na serwer przeze mnie obsługiwany https://wizyta.gabinetpsychiatra.pl.
-
-Przed planowana wizytą otworzę salę konferencyjną i podam jej nazwę. W programie należy wpisać nazwę i tym samym zalogować się wizytę.
+Przed planowaną wizytą otworzę salę konferencyjną i podam jej nazwę. W programie należy wpisać nazwę i tym samym zalogować się wizytę.
 
 - przez przeglądarkę (chrome, chromium, brave) - wymaga jedynie wpisania adresu https://wizyta.gabinetpsychiatra.pl.
 
-Na stronie, która sie otworzy należy wpisać nazwe sali konferencyjnej, która podałem przed wizytą.
+Na stronie, która się otworzy należy wpisać nazwe sali konferencyjnej, która podałem przed wizytą.
 
 <hr>
 
 __Wyjaśnienie:__
-wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co unieżliwia podsłuchiwanie.
+wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co uniemożliwia podsłuchiwanie.
