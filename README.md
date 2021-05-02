@@ -62,7 +62,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 
 ### Weryfikacja danych ###
 - [RPWDL - Rejestr Podmiotów Wykonujących Działalność Leczniczą](https://rpwdl.ezdrowie.gov.pl/RPZ/DetailsConfirm?registryNumber=000000048335&Id=49246)
-- [CEIDG - Centralna Ewidencja i Informacja o Działalności Gospodarczej](https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.U/SearchDetails.aspx) - NIP:6262561895
+- [CEIDG - Centralna Ewidencja i Informacja o Działalności Gospodarczej](https://prod.ceidg.gov.pl/ceidg/ceidg.public.ui/Search.aspx) - NIP:6262561895
 
 <hr>
 >Strona ma charakter informacyjny i nie zawiera treści reklamowych.
