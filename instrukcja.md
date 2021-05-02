@@ -28,7 +28,7 @@ Moi pacjenci
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych _wrażliwych._
 Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mają do wyboru dwie metody;
 1. komunikator <a href="https://status.im/"> status - private communications </a> - (mój adres: psychiatra.eth). Ten komunikator nie wymaga podawania numeru telefonu przy rejestracji,
-2. komunikator [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie ((mój adres: praktyka@gabinetpsychiatra.pl)
+2. komunikator [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie (mój adres: praktyka@gabinetpsychiatra.pl)
 <br>
 
 Udostępnianie dokumentacji
