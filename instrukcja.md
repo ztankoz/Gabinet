@@ -33,8 +33,8 @@ Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (
 
 Udostępnianie dokumentacji
 
-Dokumentację medyczną (kartotekę) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link do dokumentu zabezpieczony hasłem ustalonym przy wnioskowaniu o udzielenie dokumentacji. Link przestaje być aktywny po miesiącu.
+Dokumentację medyczną (kartotekę) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link  dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku lub/i wydrukować. Linki przestają być aktywne po miesiącu.
 
 Uwagi
 <br>
-Instytucje najczęściej akceptują tę formę dokumentacji. Pobrany plik ma nazwę, której nie należy zmieniać. Nazwa jest jednocześnie hashem (SHA256) treści dokumentu. Poza tym należy pobrać plik podpisu pgp i udostępnić go instytucji w razie wątpliwości co do prawdziwości dokumentu.
+Instytucje najczęściej akceptują tę formę dokumentacji. Pobrany plik ma nazwę, której dla potrzeb weryfikacyjnych nie należy zmieniać. Nazwa jest jednocześnie hashem [SHA256](https://pl.wikipedia.org/wiki/SHA-2) treści dokumentu. W razie wątpliwości co do prawdziwości wydanego dokumentu należy przedstawić oba pliki oraz wskazać moją stronę internetową jako źródło certyfikacji. Dział informatyczny instytucji powinien poradzic sobie z potwierdzeniem prawdziwości wydanych dokumentów.
