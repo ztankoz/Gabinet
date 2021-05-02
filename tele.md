@@ -14,6 +14,8 @@
 
 - czas trwania to z reguły 30 minut
 
+<hr>
+
 _Instrukcje instalacji oprogramowania do wideorozmowy;_
 
 1. Przez telefon komórkowy
