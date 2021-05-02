@@ -59,12 +59,12 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 1. gotówka
 2. BTC, XMR, Bitcoin Lightning, ETH
 <br>
-<hr>
 
-### Weryfikacja ###
+### Weryfikacja danych ###
 - [RPWDL - Rejestr Podmiotów Wykonujących Działalność Leczniczą](https://rpwdl.ezdrowie.gov.pl/RPZ/DetailsConfirm?registryNumber=000000048335&Id=49246)
 - 
 
+<hr>
 >Strona ma charakter informacyjny i nie zawiera treści reklamowych.
 >Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
 
