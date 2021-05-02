@@ -61,6 +61,10 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 <br>
 <hr>
 
+### Weryfikacja ###
+- [RPWDL - Rejestr Podmiotów Wykonujących Działalność Leczniczą](https://rpwdl.ezdrowie.gov.pl/RPZ/DetailsConfirm?registryNumber=000000048335&Id=49246)
+- 
+
 >Strona ma charakter informacyjny i nie zawiera treści reklamowych.
 >Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
 
