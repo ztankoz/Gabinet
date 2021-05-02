@@ -30,9 +30,11 @@ Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (
 1. komunikator <a href="https://status.im/"> status - private communications </a> - (mój adres: psychiatra.eth). Ten komunikator nie wymaga podawania numeru telefonu przy rejestracji,
 2. komunikator [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie ((mój adres: praktyka@gabinetpsychiatra.pl)
 <br>
+
 Udostępnianie dokumentacji
 
 Dokumentację medyczną (kartotekę) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link do dokumentu zabezpieczonego hasłem ustalonym przy wnioskowaniu o udzielenie dokumentacji. Link staje si e nieaktywny po 2 tygodniach.
 
 Uwagi
+
 Instytucje najczęściej akceptują tę formę dokumentacji. Pobrany plik ma nazwę, której nie należy zmieniać. Nazwa jest jednocześnie hashem (SHA256) treści dokumentu. Poza tym należy pobrać plik podpisu pgp i udostępnić go instytucji w razie wątpliwości co do prawdziwości dokumentu.
