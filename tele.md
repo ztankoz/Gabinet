@@ -17,12 +17,12 @@
 _Instrukcje instalacji oprogramowania do wideorozmowy;_
 
 1. Przez telefon komórkowy
-- wymaga instalacji oprogramowania [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) na telefonie  oraz zmianę w ustawieniach serwera z https://meet.jit.si na serwer przeze mnie obsługiwany https://wizyta.gabinetpsychiatra.pl
-- przed planowaną wizytą otworzę salę konferencyjną i podam jej nazwę. W programie należy wpisać nazwę i tym samym zalogować się na wizytę.
+- wymaga instalacji oprogramowania [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) na telefonie  oraz zmianę w ustawieniach programu z serwera https://meet.jit.si na obsługiwany przeze mnie https://wizyta.gabinetpsychiatra.pl
+- przed planowaną wizytą prześlę link umożliwiający dołączenie do kanału.
 
 2. Przez przeglądarkę (chrome, chromium, brave)
 - wymaga jedynie wpisania adresu https://wizyta.gabinetpsychiatra.pl.
-- na stronie, która się otworzy należy wpisać nazwe sali konferencyjnej, która podałem przed wizytą.
+- na stronie, która się otworzy należy wpisać nazwe sali konferencyjnej, która zawarta jest w wysłanym przeze mnie linku.
 
 <hr>
 
