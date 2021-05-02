@@ -60,9 +60,10 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 2. BTC, XMR, Bitcoin Lightning, ETH
 <br>
 
-### Weryfikacja danych ###
-- [RPWDL - Rejestr Podmiotów Wykonujących Działalność Leczniczą](https://rpwdl.ezdrowie.gov.pl/RPZ/DetailsConfirm?registryNumber=000000048335&Id=49246)
-- [CEIDG - Centralna Ewidencja i Informacja o Działalności Gospodarczej](https://prod.ceidg.gov.pl/ceidg/ceidg.public.ui/Search.aspx) - NIP:6262561895, Regon:278179472
+### Weryfikacja danych ze strony ###
+- [RPWDL](https://rpwdl.ezdrowie.gov.pl/RPZ/DetailsConfirm?registryNumber=000000048335&Id=49246) - Rejestr Podmiotów Wykonujących Działalność Leczniczą
+- [CEIDG](https://prod.ceidg.gov.pl/ceidg/ceidg.public.ui/Search.aspx) -  - Centralna Ewidencja i Informacja o Działalności Gospodarczej
+- NIP:6262561895, Regon:278179472
 
 <hr>
 >Strona ma charakter informacyjny i nie zawiera treści reklamowych.
