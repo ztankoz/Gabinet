@@ -66,6 +66,6 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - NIP:6262561895, Regon:278179472
 
 <hr>
->Strona ma charakter informacyjny i nie zawiera treści reklamowych.
->Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację
+> Strona ma charakter informacyjny i nie zawiera treści reklamowych. 
+[Podmiot odpowiedzialny nie zbiera żadnych informacji pozawlających na identyfikację](https://gabinetpsychiatra.pl/prywatnosc)
 
