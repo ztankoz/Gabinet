@@ -4,7 +4,7 @@ Popieram [Deklarację](https://gbdeclaration.org/) w sprawie konieczności zmian
 ## Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
-### Kontakt - [instrukcje](/instrukcja.md)
+### [Kontakt - informacje](/instrukcja.md)
 _telefon: +48 509122806_
 
 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
@@ -37,7 +37,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - czas trwania wizyty pierwszorazowej to około 60 minut, kolejnej około 30 minut
 - oferta dojazdu dotyczy rejonu Górnego Śląska
 
-### Telewizyta - [informacje](/tele.md)
+### [Telewizyta - informacje](/tele.md)
 - w wyjątkowych sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
 
 <br>
@@ -55,7 +55,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 
 <br>
 
-### Formy płatności - [informacje](/platnosci.md)
+### [Formy płatności - informacje](/platnosci.md)
 1. gotówka
 2. BTC, XMR, Bitcoin Lightning, ETH
 <br>
