@@ -1,10 +1,5 @@
 Popieram [Deklarację](https://gbdeclaration.org/) w sprawie konieczności zmiany sposobu postępowania wobec pandemii COVID.
 <hr>
-<br>
-
-# Urlop do 18 lipca 2021 !!!
-
-<hr>
 
 ## Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
