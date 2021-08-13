@@ -1,8 +1,3 @@
-<hr>
-
-# URLOP do 11 sierpnia 2021 !!!
-
-<hr>
 Popieram [Deklarację](https://gbdeclaration.org/) w sprawie konieczności zmiany sposobu postępowania wobec pandemii COVID.
 <hr>
 
