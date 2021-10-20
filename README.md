@@ -1,4 +1,4 @@
-Popieram [Deklarację](https://gbdeclaration.org/) w sprawie konieczności zmiany sposobu postępowania wobec pandemii COVID.
+Podpisałem [Deklarację](https://doctorsandscientistsdeclaration.org/)
 <hr>
 
 ## Krzysztof Stańkowski
@@ -57,7 +57,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 
 ### [Formy płatności - informacje](/platnosci.md)
 1. gotówka
-2. kryptowaluty
+2. Bitcoin Lightning
 <br>
 
 ### Weryfikacja danych ze strony ###

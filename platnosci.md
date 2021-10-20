@@ -3,7 +3,7 @@
 ### Płatności w gabinecie
 
 1. gotówka
-2. kryptowaluty ([BTC](http://btc.psychiatra.eth.link/), [XMR](http://xmr.psychiatra.eth.link/), Bitcoin Lightning, ETH)
+2. kryptowaluty (Bitcoin Lightning)
 3. brak możliwości płacenia kartami płatniczymi
 4. przelew - dla pacjentów korzystających z telewizyty.<br> 
    W takiej sytuacji można płacić z dowolnego konta bankowego lub Urzędu Pocztowego (dane mogą być fikcyjne). Celem identyfikacji płatnika prosze podać w tytule pięć ostatnich cyfr numeru pesel.<br>

@@ -3,12 +3,12 @@
 ### Cennik
 
 __Cena wizyty w gabinecie__
-- pierwszorazowa - 200zł
-- kolejna - 150zł
+- pierwszorazowa - 220zł
+- kolejna - 170zł
 
 __Cena wizyty domowej__
 - pierwszorazowa - 300zł
-- kolejna - 200zł
+- kolejna - 220zł
 
 __Cena telewizyty__
 - kolejna - 150zł<br>
