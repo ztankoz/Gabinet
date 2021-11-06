@@ -16,5 +16,5 @@ __Cena telewizyty__
 
 __Cena wizyty receptowej__
 - 100zł<br>
-- recepta wypisywania tylko w ramach programu terapeutycznego
+- recepta jest wypisywana jedynie w ramach programu terapeutycznego
 
