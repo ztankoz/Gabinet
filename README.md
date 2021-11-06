@@ -29,29 +29,20 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - adres: Strzelców Bytomskich 196/12 Bytom, 41-914
 
 ### Wizyta w gabinecie w Czeladzi [ - mapa](https://www.openstreetmap.org/node/7660184231#map=17/50.31934/19.06871)
-- czas: poniedziałki i czwartki (po południu)
+- czas: poniedziałki (po południu) i czwartki (rano i po południu)
 - adres: Bytomskia 50, Czeladź, 41-250
 
 ### Wizyta domowa
 - odbywa się po wcześniejszym, telefonicznym ustaleniu czasu oraz miejsca spotkania
-- czas trwania wizyty pierwszorazowej to około 60 minut, kolejnej około 30 minut
 - oferta dojazdu dotyczy rejonu Górnego Śląska
 
 ### [Telewizyta - informacje](/tele.md)
-- w wyjątkowych sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
+- w _wyjątkowych_ sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
 
 <br>
 
-### Cena wizyty w gabinecie
-- pierwszorazowa - 200zł
-- kolejna - 150zł
-
-### Cena wizyty domowej
-- pierwszorazowa - 300zł
-- kolejna - 200zł
-
-### Cena telewizyty
-- kolejna - 150zł
+### [Cennik wizyt](/cennik.md)
+- aktualizacja 1 listopad 2021
 
 <br>
 

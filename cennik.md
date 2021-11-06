@@ -11,6 +11,10 @@ __Cena wizyty domowej__
 - kolejna - 250zł
 
 __Cena telewizyty__
-- kolejna - 170zł<br>
+- kolejna - 200zł<br>
  *nie oferuję telewizyty pacjentom pierwszorazowym
+
+__Cena wizyty receptowej__
+- 100zł<br>
+- recepta wypisywania tylko w ramach programu terapeutycznego
 
