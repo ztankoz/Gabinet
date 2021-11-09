@@ -1,6 +1,7 @@
 <a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
 
 ### Cennik - od 1 listopada 2021
+* Ceny wizyt dla terminów ustalonych przed 1 listopada 2021 nie ulegaja zmianie
 
 __Cena wizyty w gabinecie__
 - pierwszorazowa - 250zł
@@ -16,5 +17,5 @@ __Cena telewizyty__
 
 __Cena wizyty receptowej__
 - 100zł<br>
-- recepta jest wypisywana jedynie w ramach programu terapeutycznego
+- recepta jest wypisywana jedynie w ramach ustalonego wcześniej programu terapeutycznego
 
