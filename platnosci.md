@@ -10,3 +10,4 @@
 - _Specjalistyczna Praktyka Psychiatryczna Krzysztof Stańkowski_ <br>
 **Numer konta: 58 1140 2004 0000 3602 5030 4324**<br>
 
+
