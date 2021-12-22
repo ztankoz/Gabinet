@@ -26,14 +26,12 @@ _Kilka dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości
 __Moi pacjenci__
 
 Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i nie nadaje sie do przesyłania danych _wrażliwych._
-Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mają do wyboru dwie metody;
-1. komunikator <a href="https://status.im/"> status - private communications </a> - (mój adres: psychiatra.eth). Ten komunikator nie wymaga podawania numeru telefonu przy rejestracji,
-2. komunikator [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie (mój adres: praktyka@gabinetpsychiatra.pl)
+Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mogą zainstalować na telefonie lub komputerze komunikator [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć danych swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie (mój adres: praktyka@gabinetpsychiatra.pl)
 <br>
 
 __Udostępnianie dokumentacji__
 
-Dokumentację medyczną (kartotekę) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link  dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku lub/i wydrukować. Linki przestają być aktywne po miesiącu.
+Dokumentację medyczną (kartotekę) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku lub/i wydrukować. Linki przestają być aktywne po miesiącu.
 
 _Uwagi_
 <br>
