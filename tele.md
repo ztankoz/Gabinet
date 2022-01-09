@@ -10,8 +10,8 @@
 
 2. __wideorozmowa__
 
-- wymaga instalacji oprogramowania na telefonie komórkowym lub użycia komputera z przeglądarką internetową
-
+- wymaga użycia telefonu komórkowego lub komputera z przeglądarką internetową
+- przed planowaną wizytą prześlę LINK oraz LOGIN i HASŁO umożliwiające bezpieczne połączenie
 - czas trwania to z reguły 30 minut
 
 <hr>
@@ -19,12 +19,11 @@
 _Instrukcje instalacji oprogramowania do wideorozmowy;_
 
 1. Przez telefon komórkowy
-- wymaga instalacji oprogramowania [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) na telefonie  oraz zmianę w ustawieniach programu z serwera https://meet.jit.si na obsługiwany przeze mnie https://wizyta.gabinetpsychiatra.pl
-- przed planowaną wizytą prześlę link umożliwiający dołączenie do kanału.
+- w wysłanym przez mnie SMS zawarty jest LINK, który należy uruchomić. W zależności od modelu telefonu i jego konfiguracji otworzy się strona proponująca zainstalowanie oprogramowania  [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) lub korzystanie z przeglądarki internetowej dostępnej w telefonie. ![LINK](https://gabinetpsychiatra.pl/strona-ang.png)
+ Po wybraniu jednej z opcji program poprosi o podanie LOGINU i HASŁA. Po wspisaniu tychże połączenie będzie aktywne.
 
-2. Przez przeglądarkę (chrome, chromium, brave)
-- wymaga jedynie wpisania adresu https://wizyta.gabinetpsychiatra.pl.
-- na stronie, która się otworzy należy wpisać nazwe sali konferencyjnej, która zawarta jest w wysłanym przeze mnie linku.
+2. Przez przeglądarkę (chrome, firefox, brave)
+- wymaga jedynie wpisania adresu wysłanego przeze mnie w SMS oraz podania stosownego LOGINU i HASŁA
 
 <hr>
 

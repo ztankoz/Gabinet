@@ -29,7 +29,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 - adres: Strzelców Bytomskich 196/12 Bytom, 41-914
 
 ### Wizyta w gabinecie w Czeladzi [ - mapa](https://www.openstreetmap.org/node/7660184231#map=17/50.31934/19.06871)
-- czas: poniedziałki (po południu) i czwartki (rano i po południu)
+- czas: poniedziałki (po południu) i czwartki (rano)
 - adres: Bytomskia 50, Czeladź, 41-250
 
 ### Wizyta domowa

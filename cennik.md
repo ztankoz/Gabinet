@@ -13,18 +13,18 @@ __Cena wizyty domowej__
 
 __Cena telewizyty__
 - kolejna - 200zł<br>
- *nie oferuję telewizyty pacjentom pierwszorazowym
+ *nie oferuję telewizyty pacjentom na wizycie pierwszorazowej
 
 __Cena wizyty receptowej__
-- 100zł<br>
+- od 50 do 100zł<br>
 - recepta jest wypisywana w ramach ustalonego wcześniej programu terapeutycznego
 <br>
 lub
 <br>
-- gdy konieczność przełożenia wizyty, może spowodować przerwanie leczenia farmakologicznego
+- gdy konieczność przełożenia wizyty, mogłaby spowodować przerwanie leczenia farmakologicznego
 
 <br>
 _Wyjaśnienie_
 <br>
-Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez państwo. Dotychczasowe, grzecznościowe wypisywanie recept, może byc uznane przez urzędnika-śledczego-nadzorcę jako forma unikania opodatkowania. Stąd wcześniejszy cennik przybrał mniej przyjazny charakter.
+Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji. Dotychczasowe, grzecznościowe wypisywanie recept, może byc uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter.
 
