@@ -5,9 +5,9 @@ Podpisałem [Deklarację](https://doctorsandscientistsdeclaration.org/)
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
 ### [Kontakt - informacje](/instrukcja.md)
-_telefon: +48 509122806_
+☎️ _telefon: +48 509122806_
 
-_email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
+📧 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
 
 
 ### Oferta terapeutyczna dotyczy farmakoterapii, psychoterapii oraz psychedukacji zaburzeń i chorób psychicznych osób dorosłych między innymi;
@@ -60,4 +60,4 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 
 > [Polityka prywatności](/prywatnosc.md) <br>
 > [Nota korporacyjna](/nota.md)
-
+©️ ztankoz
