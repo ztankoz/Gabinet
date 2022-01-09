@@ -24,6 +24,8 @@ _Instrukcje instalacji oprogramowania do wideorozmowy;_
 
 [![strona w języku angielskim](https://gabinetpsychiatra.pl/strona-ang.jpg "strona w języku angielskim")](https://gabinetpsychiatra.pl/strona-ang.png)
 
+<img src="https://gabinetpsychiatra.pl/strona-pol.jpg" width="200" height="100">
+
 Po wybraniu jednej z opcji program poprosi o podanie LOGINU i HASŁA. Po wspisaniu tychże, połączenie będzie aktywne.
 
 2. Przez przeglądarkę (chrome, firefox, brave)
@@ -31,5 +33,5 @@ Po wybraniu jednej z opcji program poprosi o podanie LOGINU i HASŁA. Po wspisan
 
 <hr>
 
-> :memo: **Wyjaśnienie:**
+:memo: **Wyjaśnienie:**
 wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co uniemożliwia podsłuchiwanie.
