@@ -4,13 +4,13 @@
 
 ### Forma telewizyty
 
-1. __rozmowa telefoniczna__
+1. :telephone_receiver __rozmowa telefoniczna__
 
 - inicjowana przeze mnie
 - dzwonię na ustalony wcześniej numer telefonu
 - czas trwania to z reguły 30 minut
 
-2. __wideorozmowa__
+2. :video_camera __wideorozmowa__
 
 - wymaga użycia telefonu komórkowego lub komputera z przeglądarką internetową
 - przed planowaną wizytą prześlę LINK oraz LOGIN i HASŁO umożliwiające bezpieczne połączenie
@@ -32,6 +32,6 @@ Wymaga jedynie wpisania adresu wysłanego przeze mnie w SMS oraz podania stosown
 
 <hr>
 
-**Wyjaśnienie**
+:bulb **Wyjaśnienie**
 
 wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co uniemożliwia podsłuchiwanie.
