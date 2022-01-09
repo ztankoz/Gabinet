@@ -58,7 +58,7 @@ _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.
 
 <hr>
 
-[Polityka prywatności](https://gabinetpsychiatra.pl/prywatnosc.html)
+[Polityka prywatności](/prywatnosc.md)
 
-> :warning: **Strona ma charakter informacyjny i nie zawiera treści reklamowych:**
+[Nota](/nota.md)
 
