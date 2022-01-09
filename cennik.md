@@ -1,4 +1,5 @@
-<a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
+[Powrót do strony głównej](/README.md)
+<hr>
 
 ### Cennik - od 1 listopada 2021
 * Ceny wizyt dla terminów ustalonych przed 1 listopada 2021 nie ulegają zmianie

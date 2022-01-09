@@ -1,4 +1,6 @@
-<a href="https://gabinetpsychiatra.pl"> Powrót do strony głównej </a>
+[Powrót do strony głównej](/README.md)
+
+<hr>
 
 ### Forma telewizyty
 
