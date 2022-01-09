@@ -13,6 +13,7 @@ __Uwaga!__
 - nie odpowiadam na żadne informacje przesłane przez WHATSUP czy MESSANGER - nie używam takich serwisów
 
 
+
 __Nowi pacjenci__
 
 W celu rejestracji proszę dzwonić we wskazanych godzinach; poniedziałki, środy, czwartki od 19:00 do 20:00
