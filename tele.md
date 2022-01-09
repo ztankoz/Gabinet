@@ -10,7 +10,7 @@
 - dzwonię na ustalony wcześniej numer telefonu
 - czas trwania to z reguły 30 minut
 
-2. 📹 __wideorozmowa__
+2. 🎥 __wideorozmowa__
 
 - wymaga użycia telefonu komórkowego lub komputera z przeglądarką internetową
 - przed planowaną wizytą prześlę LINK oraz LOGIN i HASŁO umożliwiające bezpieczne połączenie
