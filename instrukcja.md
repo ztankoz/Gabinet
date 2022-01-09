@@ -7,7 +7,7 @@ Przed wizytą konieczna jest rejestracja telefoniczna
 Można wysłać SMS lub EMAIL z prośba o kontakt.
 ```
 
-:warning __Uwaga!__
+__Uwaga!__
 - proszę nie używać wiadomości SMS do przekazywania danych medycznych. Tym kanałem komunikacyjnym jedynie potwierdzam, odwołuję, zmieniam terminy wizyt.
 - proszę nie przesyłać wiadomości w postaci MMS - nie mam do nich dostępu
 - nie odpowiadam na żadne informacje przesłane przez WHATSUP czy MESSANGER - nie używam takich serwisów
@@ -26,13 +26,12 @@ Obecny system pocztowy internetu przypomina wysyłanie pocztówek z wakacji i ni
 Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (np. wyniki badań, informacje o samopoczuciu, dokumentację medyczną) mogą zainstalować na telefonie lub komputerze komunikator [delta.chat](https://delta.chat/pl/). Do konfiguracji należy użyć danych swojego konta pocztowego. Po wymianie pierwszej wiadomości, reszta komunikacji będzie szyfrowana automatycznie (mój adres: praktyka@gabinetpsychiatra.pl)
 <br>
 
-:notebook __Udostępnianie dokumentacji__
+__Udostępnianie dokumentacji__
 
 Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku cyfrowym lub/i wydrukować. Linki przestają być aktywne po miesiącu.
 
 <hr>
 
-:bulb **Uwagi**
+**Uwagi**
 
-<br>
 Do czasu wprowadzenia standardu przekazywania dokumentacji medycznej w bezpieczny sposób, proponuję powyższą procedurę. Instytucje najczęściej akceptują tę formę dostępu do dokumentacji. W razie wątpliwości co do prawdziwości wydanego dokumentu należy przedstawić oba pliki (dokument oraz podpis cyfrowy) oraz wskazać moją stronę internetową jako źródło certyfikacji. Dział informatyczny instytucji powinien poradzic sobie z potwierdzeniem prawdziwości wydanych dokumentów.
