@@ -23,8 +23,8 @@ lub
 <br>
 - gdy konieczność przełożenia wizyty, mogłaby spowodować przerwanie leczenia farmakologicznego
 
-<br>
-_Wyjaśnienie_
+> :memo: **Wyjaśnienie:**
+
 <br>
 Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji. Dotychczasowe, grzecznościowe wypisywanie recept, może byc uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter.
 

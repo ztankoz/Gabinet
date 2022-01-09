@@ -33,6 +33,6 @@ __Udostępnianie dokumentacji__
 
 Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku cyfrowym lub/i wydrukować. Linki przestają być aktywne po miesiącu.
 
-_Uwagi_
+> :bulb: **Uwagi:**
 <br>
 Do czasu wprowadzenia standardu przekazywania dokumentacji medycznej w bezpieczny sposób, proponuję powyższą procedurę. Instytucje najczęściej akceptują tę formę dostępu do dokumentacji. W razie wątpliwości co do prawdziwości wydanego dokumentu należy przedstawić oba pliki (dokument oraz podpis cyfrowy) oraz wskazać moją stronę internetową jako źródło certyfikacji. Dział informatyczny instytucji powinien poradzic sobie z potwierdzeniem prawdziwości wydanych dokumentów.

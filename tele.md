@@ -20,12 +20,9 @@ _Instrukcje instalacji oprogramowania do wideorozmowy;_
 
 1. Przez telefon komórkowy
 - w wysłanym przez mnie SMS zawarty jest LINK, który należy uruchomić. W zależności od modelu telefonu i jego konfiguracji otworzy się strona proponująca zainstalowanie oprogramowania  [jitsi meet](https://play.google.com/store/apps/details?id=org.jitsi.meet) lub korzystanie z przeglądarki internetowej dostępnej w telefonie.<br>
-Po polsku:
+[![Strona w języku polskim](https://gabinetpsychiatra.pl/strona-pol.jpg "strona w języku polskim")](https://gabinetpsychiatra.pl/strona-pol.png) 
 
-[![Strona w języku polskim](https://gabinetpsychiatra.pl/strona-pol.jpg)](https://gabinetpsychiatra.pl/strona-pol.png) 
-
-Po angielsku:
-[![strona w języku angielskim](https://gabinetpsychiatra.pl/strona-ang.jpg)](https://gabinetpsychiatra.pl/strona-ang.png)
+[![strona w języku angielskim](https://gabinetpsychiatra.pl/strona-ang.jpg "strona w języku angielskim")](https://gabinetpsychiatra.pl/strona-ang.png)
 
 Po wybraniu jednej z opcji program poprosi o podanie LOGINU i HASŁA. Po wspisaniu tychże, połączenie będzie aktywne.
 
@@ -34,5 +31,5 @@ Po wybraniu jednej z opcji program poprosi o podanie LOGINU i HASŁA. Po wspisan
 
 <hr>
 
-__Wyjaśnienie:__
+> :memo: **Wyjaśnienie:**
 wybór programu wynika z bezpieczeństwa danych pacjentów. Całość oprogramowania znajduje się na moim serwerze i nie jest obsługiwana przez podmioty trzecie (ochrona metadanych). Dodatkowo to oprogramowanie gwarantuje szyfrowanie koniec do końca (end-to-end encryption) co uniemożliwia podsłuchiwanie.
