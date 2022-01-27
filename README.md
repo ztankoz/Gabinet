@@ -58,5 +58,5 @@ Podpisałem [Deklarację](https://doctorsandscientistsdeclaration.org/)
 
 <hr>
 
-~[Polityka prywatności](/prywatnosc.md)~
-^[Nota korporacyjna](/nota.md)^ <br>
+`[Polityka prywatności](/prywatnosc.md)`
+`[Nota korporacyjna](/nota.md)`
