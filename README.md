@@ -58,6 +58,5 @@ Podpisałem [Deklarację](https://doctorsandscientistsdeclaration.org/)
 
 <hr>
 
-<H6> [Polityka prywatności](/prywatnosc.md) </H6>
-> [Nota korporacyjna](/nota.md) <br>
-©️ ztankoz
+~[Polityka prywatności](/prywatnosc.md)~
+^[Nota korporacyjna](/nota.md)^ <br>
