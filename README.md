@@ -1,4 +1,4 @@
-Podpisałem [Deklarację](https://doctorsandscientistsdeclaration.org/)
+Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclaration.org/)
 <hr>
 
 ## Krzysztof Stańkowski
