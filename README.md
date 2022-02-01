@@ -9,7 +9,7 @@ Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclar
 # Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
-### Kontakt [- link](/instrukcja.md)
+### Kontakt [- link](/instrukcja.md) 🔗
 ☎️ _telefon: +48 509122806_
 
 📧 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
@@ -29,11 +29,11 @@ Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclar
 
 <br>
 
-### Wizyta w gabinecie w Bytomiu  [ - link mapa](https://www.openstreetmap.org/node/7660154838#map=16/50.3878/18.8818)
+### Wizyta w gabinecie w Bytomiu  [ - link mapa](https://www.openstreetmap.org/node/7660154838#map=16/50.3878/18.8818) 🔗
 - czas: wtorki i piątki (rano i po południu)
 - adres: Strzelców Bytomskich 196/12 Bytom, 41-914
 
-### Wizyta w gabinecie w Czeladzi [ - link mapa](https://www.openstreetmap.org/node/7660184231#map=17/50.31934/19.06871)
+### Wizyta w gabinecie w Czeladzi [ - link mapa](https://www.openstreetmap.org/node/7660184231#map=17/50.31934/19.06871) 🔗
 - czas: poniedziałki (po południu) i czwartki (rano)
 - adres: Bytomskia 50, Czeladź, 41-250
 
@@ -41,15 +41,15 @@ Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclar
 - odbywa się po wcześniejszym, telefonicznym ustaleniu czasu oraz miejsca spotkania
 - oferta dojazdu dotyczy rejonu Górnego Śląska
 
-### Telewizyta [- link](/tele.md)
+### Telewizyta [- link](/tele.md) 🔗
 - w _wyjątkowych_ sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
 <br>
 
-### Cennik wizyt [- link](/cennik.md)
+### Cennik wizyt [- link](/cennik.md) 🔗
 - aktualizacja 1 listopad 2021
 <br>
 
-### Formy płatności [- link](/platnosci.md)
+### Formy płatności [- link](/platnosci.md) 🔗
 1. gotówka
 2. Bitcoin Lightning
 <br>
