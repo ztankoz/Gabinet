@@ -6,7 +6,7 @@ URLOP od 8 lutego do 27 lutego
 # Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
-### [Kontakt - informacje](/instrukcja.md)
+### Kontakt [- link](/instrukcja.md)
 ☎️ _telefon: +48 509122806_
 
 📧 _email: praktyka@gabinetpsychiatra.pl_ [ - klucz pgp](https://gabinetpsychiatra.pl/pgp) 
@@ -38,17 +38,17 @@ URLOP od 8 lutego do 27 lutego
 - odbywa się po wcześniejszym, telefonicznym ustaleniu czasu oraz miejsca spotkania
 - oferta dojazdu dotyczy rejonu Górnego Śląska
 
-### [Telewizyta - informacje](/tele.md)
+### Telewizyta [- link](/tele.md)
 - w _wyjątkowych_ sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
 
 <br>
 
-### [Cennik wizyt](/cennik.md)
+### Cennik wizyt [- link](/cennik.md)
 - aktualizacja 1 listopad 2021
 
 <br>
 
-### [Formy płatności - informacje](/platnosci.md)
+### [Formy płatności [- link](/platnosci.md)
 1. gotówka
 2. Bitcoin Lightning
 <br>
