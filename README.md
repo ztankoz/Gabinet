@@ -1,5 +1,5 @@
 Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclaration.org/)
-<hr>
+<br>
 URLOP od 8 lutego do 27 lutego
 <br>
 
@@ -40,15 +40,13 @@ URLOP od 8 lutego do 27 lutego
 
 ### Telewizyta [- link](/tele.md)
 - w _wyjątkowych_ sytuacjach, pacjenci pozostający w kontakcie terapeutycznym mogą prosić o taką formę wizyty
-
 <br>
 
 ### Cennik wizyt [- link](/cennik.md)
 - aktualizacja 1 listopad 2021
-
 <br>
 
-### [Formy płatności [- link](/platnosci.md)
+### Formy płatności [- link](/platnosci.md)
 1. gotówka
 2. Bitcoin Lightning
 <br>
