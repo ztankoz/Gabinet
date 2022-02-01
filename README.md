@@ -1,7 +1,10 @@
 Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclaration.org/)
+
 <br>
-URLOP od 8 lutego do 27 lutego
-<br>
+
+**URLOP od 8 lutego do 27 lutego**
+
+<hr>
 
 # Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
