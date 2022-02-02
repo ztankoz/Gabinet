@@ -2,7 +2,7 @@ Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclar
 
 <br>
 
-**URLOP od 8 lutego do 27 lutego**
+**URLOP od 8 do 27 lutego** - terminy dla pierwszorazowych pacjentów po 15 marca
 
 <hr>
 
