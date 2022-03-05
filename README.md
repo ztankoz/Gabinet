@@ -1,9 +1,5 @@
 Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclaration.org/)
 
-<br>
-
-Uwaga! - terminy dla pierwszorazowych pacjentów po 22 marca
-
 <hr>
 
 # Krzysztof Stańkowski
