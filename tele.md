@@ -30,6 +30,8 @@ Po wybraniu jednej z opcji program poprosi o podanie LOGINU i HASŁA. Po wspisan
 - przez przeglądarkę (chrome, firefox, brave)<br>
 Wymaga jedynie wpisania adresu wysłanego przeze mnie w SMS oraz podania stosownego LOGINU i HASŁA
 
+- od 1 lipca 2022 możliwa jest telewizyta przy pomocy oprogramowania [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=pl&gl=PL)
+
 <hr>
 
 **Wyjaśnienie**

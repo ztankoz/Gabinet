@@ -16,7 +16,7 @@ __Nowi pacjenci__
 
 W celu rejestracji proszę dzwonić we wskazanych godzinach; poniedziałki, środy, czwartki od 19:00 do 20:00
 <br>
-_Nalegam_ by wysyłając EMAIL lub SMS z prośbą o kontakt, nie podawać żadnych danych medycznych
+_Nalegam_ by wysyłając EMAIL lub SMS z prośbą o kontakt, nie podawać żadnych danych medycznych (wyników badań, objawów chorobowych)
 <br>
 _Kilka dni przed planowaną wizytą wysyłam przypomnienie w postaci wiadomości SMS na wskazany numer telefonu._
 
@@ -28,10 +28,5 @@ Moi pacjenci wysyłając lub odbierając dane medyczne w formie elektronicznej (
 
 __Udostępnianie dokumentacji__
 
-Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam link dokumentu zabezpieczony hasłem oraz link podpisu cyfrowego. Pobrane pliki dokumentu i podpisu można zapisać na nośniku cyfrowym lub/i wydrukować. Linki przestają być aktywne po miesiącu.
-
-<hr>
-
-**Uwagi**
-
-Do czasu wprowadzenia standardu przekazywania dokumentacji medycznej w bezpieczny sposób, proponuję powyższą procedurę. Instytucje najczęściej akceptują tę formę dostępu do dokumentacji. W razie wątpliwości co do prawdziwości wydanego dokumentu należy przedstawić oba pliki (dokument oraz podpis cyfrowy) oraz wskazać moją stronę internetową jako źródło certyfikacji. Dział informatyczny instytucji powinien poradzic sobie z potwierdzeniem prawdziwości wydanych dokumentów.
+Dokumentację medyczną (kartotekę, opinie, zaświadczenia) udostępniam w formie wydruku albo elektronicznej na prośbę pacjenta lub osób przez niego upoważnionych. Do tygodnia czasu przesyłam dokument zabezpieczony hasłem.
+<br>

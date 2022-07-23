@@ -1,4 +1,4 @@
-Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclaration.org/)
+## URLOP od 1 sierpnia do 17 sierpnia 2022 ##
 
 <hr>
 
@@ -42,7 +42,6 @@ Podpisałem [Deklarację Global Covid Summit](https://doctorsandscientistsdeclar
 <br>
 
 ### Cennik wizyt [- link](/cennik.md) 🔗
-- aktualizacja 1 listopad 2021
 <br>
 
 ### Formy płatności [- link](/platnosci.md) 🔗
