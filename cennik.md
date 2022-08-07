@@ -1,8 +1,7 @@
 [Powrót do strony głównej](/README.md)
 <hr>
 
-### Cennik - od 1 listopada 2021
-* Ceny wizyt dla terminów ustalonych przed 1 listopada 2021 nie ulegają zmianie
+### Cennik
 
 __Cena wizyty w gabinecie__
 - pierwszorazowa - 250zł
@@ -24,10 +23,4 @@ lub
 <br>
 - gdy konieczność przełożenia wizyty, mogłaby spowodować przerwanie leczenia farmakologicznego
 
-<hr>
-
-**Wyjaśnienie**
-
-<br>
-Od 1 lipca 2021, każde zdarzenie medyczne ( _wizyta, teleporada, wypisanie recepty_) jest obowiązkowo i automatycznie raportowane do centralnego systemu obsługiwanego przez organy administracji. Dotychczasowe, grzecznościowe wypisywanie recept, może byc uznane przez _urzędnika-śledczego-nadzorcę_ jako forma unikania opodatkowania. Wcześniejszy cennik przybrał mniej przyjazny charakter.
 
