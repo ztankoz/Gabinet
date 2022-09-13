@@ -1,9 +1,3 @@
-
-# URLOP od 1 sierpnia do 17 sierpnia 2022 #
-
-
-<hr>
-
 # Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
