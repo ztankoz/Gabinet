@@ -3,10 +3,6 @@
 
 <hr>
 
-# URLOP: 24 wrzesień - 30 wrzesień 
-
-<hr>
-
 ### Kontakt [- link](/instrukcja.md) 🔗
 ☎️ _telefon: +48 509122806_
 
