@@ -1,9 +1,6 @@
 # Krzysztof Stańkowski
 *lekarz, specjalista psychiatra, psychoterapeuta*
 
-<hr>
-# URLOP 19 styczeń -> 29 styczeń 
-
 ### Kontakt [- link](/instrukcja.md) 🔗
 ☎️ _telefon: +48 509122806_
 
